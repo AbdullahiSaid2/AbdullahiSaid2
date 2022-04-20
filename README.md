@@ -1,5 +1,5 @@
 Hi, I’m @AbdullahiSaid2
-👀 I’m interested in everything Devops and cloud.
+👀 I’m interested in everything Devops and Cloud.
 
 
 <!---
